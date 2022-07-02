@@ -1,4 +1,3 @@
-i
 #include <stdio.h>
 
 
