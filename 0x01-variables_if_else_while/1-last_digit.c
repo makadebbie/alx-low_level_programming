@@ -1,6 +1,7 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
+#include <string>
 
 /**
  * main - Prints the last digit of a randomly generated number
